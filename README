@@ -1,0 +1,9 @@
+# -*- mode: org; -*-
+
+* srep - scheme grep
+
+=srep= is a cli tool that wraps the guile-irregex package for use on
+the command line. It's very simple, a bit slow, but it's syntax saves
+me time when making rather complex replacements / searches.
+
+

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_30f6e65d",
+        "filename": "variants/native-o0.config",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1001883
+      },
+      "writtenOn": "2016-09-12T05:31:08Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "7101b1fde657bad7df0bc06b3cea06f8d5d1f3cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}

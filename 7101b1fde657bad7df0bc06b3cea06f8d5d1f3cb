@@ -16,6 +16,24 @@
       "revId": "7101b1fde657bad7df0bc06b3cea06f8d5d1f3cb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_908812c8",
+        "filename": "variants/native-o0.config",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1001883
+      },
+      "writtenOn": "2016-09-12T05:35:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "baa041b7_30f6e65d",
+      "revId": "7101b1fde657bad7df0bc06b3cea06f8d5d1f3cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }

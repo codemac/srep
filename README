@@ -6,4 +6,13 @@
 the command line. It's very simple, a bit slow, but it's syntax saves
 me time when making rather complex replacements / searches.
 
+* Contributing
+
+If you'd like to contribute to srep, you must follow the gerrithub procedure.
+
+TODO: document procedure. Disable pull requests.
+
+** Building the software
+
+Just run tup upd!
 

@@ -1,8 +1,0 @@
-#!@GUILE@ --no-auto-compile
--*- scheme -*-
-!#
-;;; COPYING goes here
-
-(use-modules (srep ui))
-
-(apply srep-main (command-line))
